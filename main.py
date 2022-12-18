@@ -1,5 +1,5 @@
 import tasks
 import homeWork
 
-tasks.firstTask.SecondTaskMain(27287)
+tasks.MainTasks.SecondTaskMain(18578)
 # homeWork.firstHomeWork.answer()
