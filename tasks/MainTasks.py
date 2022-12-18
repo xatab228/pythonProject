@@ -86,6 +86,9 @@ def GetTask(taskNum,x,y,z,w):
     return Task[taskNum]
 
 
+# x -> y == not(x) or y - Замена импликации
+
+
 def SecondTaskMain(taskNum):
     print("Task: ",taskNum)
     print("x y z w F")
